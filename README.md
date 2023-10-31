@@ -4,7 +4,7 @@ First Project : Covid World Wide calculations
 
 The goal in this project is to take calculations done in MySQL and import them into Power BI and create a dashboard where we can display the covid numbers in Poland and also world-wide.
 
-The focus is on covid deaths and covid vaccinations, we can see how is Poland is dealing with Covid, by analyzing the % of deaths, % of vaccinations, % of infected population, the most days with vaccination, deaths and covid cases.
+The focus is on covid deaths and covid vaccinations, we can see how is Poland dealing with Covid, by analyzing the % of deaths, % of vaccinations, % of infected population, the most days with vaccination, deaths and covid cases.
 
 When it comes to world-wide calculations, we can see the continents with most deaths, countries with most deaths and vaccination given, countries with most tests done etc.
 
